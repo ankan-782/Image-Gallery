@@ -1,0 +1,8 @@
+@tailwind base;
+
+body {
+    @apply font-['Satoshi',_sans-serif];
+}
+
+@tailwind components;
+@tailwind utilities;
